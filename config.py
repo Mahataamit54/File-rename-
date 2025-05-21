@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "8087950004")
 
 API_HASH = os.environ.get("API_HASH", "461969be0f5af13fc50a55f6e783d6c8")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7488436463:AAGIHMc2F79zr_lQcDXscxqN2IPtNhxjiM8") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
 
@@ -19,7 +19,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz")
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
              # Ask Doubt on telegram @KingVJ01
 
-DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
+DB_NAME = os.environ.get("DB_NAME", "卂爪丨ㄒ")     
 
 DB_URL = os.environ.get("DB_URL", "")
  
