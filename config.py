@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "MovieAMIT_bot")
 
 DB_NAME = os.environ.get("DB_NAME", "卂爪丨ㄒ")     
 
-DB_URL = os.environ.get("DB_URL", "")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://mahataamit54:mahataamit143>@tgrenameclst.0nunqj5.mongodb.net/?retryWrites=true&w=majority&appName=tgrenameclst")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
